@@ -1,5 +1,5 @@
 {
-    "name": "Watering can",
+    "name": "Orientation Angle",
     "description": "",
     "dependencies": {
         "core": "*",
